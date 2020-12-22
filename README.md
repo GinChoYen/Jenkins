@@ -6,3 +6,6 @@ The best open automation server around is Jenkins. It offers thousands of plug-i
 
 
 https://downloads.digitaltrends.com/jenkins/windows
+
+How to install Jenkins:
+https://www.guru99.com/download-install-jenkins.html
